@@ -1,5 +1,7 @@
 # road_detection
 
+<img width="554" height="305" alt="image" src="https://github.com/user-attachments/assets/4c056210-c4f7-432b-bb12-ed2a54bce9cd" />
+
 
 All data is protected by copyright and is intended solely for academic exchange and research purposes; commercial use is prohibited.   
 
