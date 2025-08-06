@@ -5,7 +5,6 @@
 
 <img width="554" height="305" alt="image" src="https://github.com/user-attachments/assets/4c056210-c4f7-432b-bb12-ed2a54bce9cd" />
 #Dataset samples
-
 ![vlcsnap-2020-07-25-18h15m49s674](https://github.com/user-attachments/assets/0b2022b3-9d9a-4c87-b863-a445548d5954)
 ![vlcsnap-2020-08-01-09h27m20s750](https://github.com/user-attachments/assets/fd02f7e8-e5f6-4fc4-af95-971221f04022)
 ![vlcsnap-2020-07-25-21h17m10s833](https://github.com/user-attachments/assets/dd222128-a312-40b6-a4df-4a6655a2dc0b)
