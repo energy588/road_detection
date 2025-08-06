@@ -9,10 +9,10 @@
 ![vlcsnap-2020-07-25-18h15m49s674](https://github.com/user-attachments/assets/0b2022b3-9d9a-4c87-b863-a445548d5954)
 ![vlcsnap-2020-08-01-09h27m20s750](https://github.com/user-attachments/assets/fd02f7e8-e5f6-4fc4-af95-971221f04022)
 ![vlcsnap-2020-07-25-21h17m10s833](https://github.com/user-attachments/assets/dd222128-a312-40b6-a4df-4a6655a2dc0b)
-![vlcsnap-2020-08-01-09h32m08s561](https://github.com/user-attachments/assets/abe88308-510a-4250-98dc-f6afe4a3dd1d)![vlcsnap-2020-08-02-19h24m36s312](https://github.com/user-attachments/assets/fd9819bd-21e9-4613-b4b2-336baef47432)
+![vlcsnap-2020-08-01-09h32m08s561](https://github.com/user-attachments/assets/abe88308-510a-4250-98dc-f6afe4a3dd1d)
+![vlcsnap-2020-08-02-19h24m36s312](https://github.com/user-attachments/assets/fd9819bd-21e9-4613-b4b2-336baef47432)
 ![vlcsnap-2020-08-02-19h05m37s607](https://github.com/user-attachments/assets/7825bb19-40b5-4096-abee-e5b624628d21)
 ![vlcsnap-2020-08-01-09h33m38s412](https://github.com/user-attachments/assets/588315fd-5979-4a9c-87dd-80c3b03f2d6e)
-
 ![IMG_2020-05-16-15h14m18s343_2](https://github.com/user-attachments/assets/f515cb9c-a254-4772-971a-3ed841fca6bc)
 ![IMG_2020-05-16-15h14m17s863_2](https://github.com/user-attachments/assets/eaf0f976-ae27-42ac-817c-4e335ca63c26)
 ![IMG_2020-05-13-21h10m08s106_2](https://github.com/user-attachments/assets/72b8bb2d-6132-473f-bbf3-eaba708628db)
@@ -33,12 +33,6 @@
 ![vlcsnap-2020-07-25-09h23m07s836_5](https://github.com/user-attachments/assets/0558b25b-05ec-41d7-995f-409ffa71487c)
 ![vlcsnap-2020-07-25-09h22m55s000_5](https://github.com/user-attachments/assets/bffc0db6-5a52-447b-98b8-20961f7c5cc9)
 ![vlcsnap-2020-07-25-09h22m44s943_5](https://github.com/user-attachments/assets/26ee74c1-36f4-45e9-8602-3410ec2039e4)
-<img width="2325" height="1307" alt="IMG_2020-05-13-19h20m29s279_mask" src="https://github.com/user-attachments/assets/96208420-e64c-4e40-881c-d31ee15a423d" />
-<img width="2325" height="1307" alt="IMG_2020-05-13-20h45m37s554_mask" src="https://github.com/user-attachments/assets/a71ef897-4e44-4e89-9d8b-ae91334f8ed1" />
-<img width="2325" height="1307" alt="IMG_2020-05-13-19h37m20s723_mask" src="https://github.com/user-attachments/assets/d24c5fdf-53d1-43de-b2ae-239711f94758" />
-<img width="2325" height="1307" alt="IMG_2020-05-13-19h29m36s233_mask" src="https://github.com/user-attachments/assets/02868692-0160-4f2b-ae9e-12803201877e" />
-<img width="2325" height="1307" alt="IMG_2020-05-13-19h29m16s443_mask" src="https://github.com/user-attachments/assets/b1d762da-6920-4f63-a49a-7d52b76641d1" />
-<img width="2325" height="1307" alt="IMG_2020-05-13-19h28m18s978_mask" src="https://github.com/user-attachments/assets/ccedb10e-1b1d-48a1-8c40-0ec618b18451" />
 ![SYN_2_IMG_2020-05-16-19h14m26s951](https://github.com/user-attachments/assets/6b03abd0-c653-4b98-b42e-c262effd5365)
 ![SYN_2_IMG_2020-05-22-16h30m12s339](https://github.com/user-attachments/assets/311c27c3-1488-4c37-aad6-0de9127cf7ce)
 ![SYN_2_IMG_2020-05-22-16h21m17s648](https://github.com/user-attachments/assets/735aae56-a1d1-4529-9f85-8b7a574860bd)
